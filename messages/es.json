@@ -124,6 +124,8 @@
   "admin/editor.image.title": "Imagen",
   "admin/editor.image.description": "Mostrar cualquier imagen",
   "admin/editor.image.src.title": "Imagen",
+  "admin/editor.image.title.title": "Título de la imagen",
+  "admin/editor.image.title.description": "Título que se mostrará al pasar el mouse sobre la imagen",
   "admin/editor.image.alt.title": "Texto alternativo",
   "admin/editor.product-images.title": "Product Images",
   "admin/editor.product-images.description": "El componente de imágenes del producto le permite personalizar las imágenes del producto",
@@ -175,8 +177,8 @@
   "admin/editor.search-bar.title": "Barra de búsqueda",
   "admin/editor.search-bar.placeholder.title": "Texto de búsqueda",
   "store/editor.action-go-to": "Volver arriba",
-  "admin / editor.toTop.title": "Volver al botón superior",
-  "admin / editor.toTop.description": "Cuando se hace clic lleva la página a la parte superior",
-  "admin / editor.toTop.topPixel.title": "Número de píxel",
-  "admin / editor.toTop.topPixel.description": "Al exceder el valor de píxel definido, aparecerá el botón para volver al principio"
+  "admin/editor.toTop.title": "Volver al botón superior",
+  "admin/editor.toTop.description": "Cuando se hace clic lleva la página a la parte superior",
+  "admin/editor.toTop.topPixel.title": "Número de píxel",
+  "admin/editor.toTop.topPixel.description": "Al exceder el valor de píxel definido, aparecerá el botón para volver al principio"
 }

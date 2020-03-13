@@ -6,6 +6,50 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Added `GoTopButton` Component.
+
+## [3.103.1] - 2020-02-18
+### Changed
+- Import addressQuery directly.
+
+## [3.103.0] - 2020-02-14
+### Added
+- `contentOrder` prop to `product-images`.
+
+## [3.102.9] - 2020-02-13
+### Fixed
+- Only define a selected SKU if all visible variations are set.
+- Handle initial empty SKU selection.
+
+## [3.102.8] - 2020-02-13
+### Fixed
+- Stop considering empty arrays to `visibleSpecifications` and `hiddenSpecifications` in `ProductSpecfications`.
+
+## [3.102.7] - 2020-02-12
+### Fixed
+- Do not show "Item already in cart" toast if adding item with options.
+
+## [3.102.6] - 2020-02-11
+### Added
+- Dispatch `SELECT_IMAGE_VARIATION` action when manually selecting a image variant SKU
+
+## [3.102.5] - 2020-02-10
+### Added
+- Documentation to the `title` prop of the `image` block.
+
+## [3.102.4] - 2020-02-10
+### Added
+- Translations for the prop `title` of the `image` block.
+
+## [3.102.3] - 2020-02-10
+### Fixed
+- French color typo
+
+## [3.102.2] - 2020-01-30
+
+### Fixed
+- Fix specification values exibition. It was showing just the first value of the array.
 
 ## [3.102.2] - 2020-01-23
 ### Added
